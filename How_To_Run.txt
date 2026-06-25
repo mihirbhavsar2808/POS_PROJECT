@@ -1,0 +1,11 @@
+Mca project 
+
+Pos-DKC   in
+    Npm run dev
+
+Backend in
+    Node server. Js
+
+Admin 
+    mihirbhavsar262@gmail.com
+    Password :- Mihir2808
