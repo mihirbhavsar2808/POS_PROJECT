@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+	--main: #333333;
+	--primary: #EBDFD1;
+	--secondary: #E9E8E6;
+	--buttonbg: #F9E1CC;
+	--bgorder: #f9f9f9;
+    --eye-icon: #7C756B;
+    --completed: #1388081F;
+    --ongoing: #ADA7071F;
+    --rejected: #FF00001F;
+}
+
+* {
+	font-family: "Sansation", sans-serif;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+	display: none;
+}
+
+.scrollbar-hide {
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+* {
+	font-family: "Syne", sans-serif;
+}
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Neucha&family=Syne:wght@400..800&display=swap'); */
